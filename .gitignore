@@ -1,0 +1,9 @@
+
+.ipynb_checkpoints/lda-with-newsgroups-checkpoint.ipynb
+corpus.pkl
+dictionary.gensim
+model10.gensim
+*.npy
+*.state
+*.id2word
+*.gensim
